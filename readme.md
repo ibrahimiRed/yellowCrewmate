@@ -73,7 +73,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** -Responsive-
 
-**Je opdracht:** -https://www.transavia.com/nl-NL/home/-
+**Je opdracht:** -https://www.rituals.com/nl-nl/home-
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
