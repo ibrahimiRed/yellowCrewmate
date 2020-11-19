@@ -1,2 +1,0 @@
-# yellowCrewmate
-For school project
