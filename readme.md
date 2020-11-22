@@ -73,7 +73,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** -Responsive-
 
-**Je opdracht:** -https://www.transavia.com/nl-NL/home/-
+**Je opdracht:** -https://www.rituals.com/- , -https://www.rituals.com/nl-nl/bleu-byzantin-1105080.html?source=cop&showbacklink=false#start=1-
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
@@ -81,4 +81,4 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="images/Breakdown-schets-2.svg" width="375px" alt="omschrijving van de pagina">
