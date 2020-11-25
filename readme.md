@@ -48,11 +48,26 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -samen met je groepje opstellen-
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Nick 
+---------
+- de nav aan de bovenkant laten plakken
+- sticky
+- hamburger met animatie
+
+| Wessel
+---------
+- Weten hoe je een Slide-show moet toevoegen
+- Weten hoe je naar beneden kan scrollen voor meer resultaten.
+
+| Redouane
+---------
+- First things first
+- Tips voor een goede start
+- Algemene vragen over de gekozen website
+
+| Ugur
+---------
+-
 
 ### Verslag van meeting
 
