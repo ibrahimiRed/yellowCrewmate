@@ -1,5 +1,77 @@
 /* CSS Document */
 *, *::after, *::before {
-  box-sizing:border-box;  
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #f6f4f2;
+  font-family:"Times New Roman", Times, serif;
+
 }
 
+.logo {
+  width: 8em;
+  height: 2em;
+  background-color: #f6f4f2;
+}
+
+li, a, button {
+  font-family:"Times New Roman", Times, serif;
+  font-size: 1em;
+  color: White;
+  text-decoration: none;
+  letter-spacing: .05em;
+
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: .5em 10%;
+  background-color: #202020;
+}
+
+.logo{
+  cursor: pointer;
+}
+
+.nav_links {
+  background-color: #202020;
+}
+
+.nav_links li{
+display: inline-block;
+padding: 1em;
+background-color: #202020;
+
+
+}
+
+.nav_links li a{
+  transition: 0.3s ease 0s;
+  background-color: #202020;
+}
+
+.nav_links li a:hover {
+color: gold;
+transition: .2s;
+}
+
+/*Dit is de main*/
+
+.box_one {
+  padding: 2em;
+  background-image: url(../images/rit1.jpeg);
+  background-size: contain;
+}
+
+.box_one p:first-of-type {
+  color: hotpink;
+  font-size: 2em;
+  margin-top: 2em;
+}
+
+.box_one p:last-of-type {
+  color: crimson;
+  margin-top: 2em;
+}
